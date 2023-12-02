@@ -1,0 +1,1 @@
+Contains violin plot(pre-treatment NT-proBNP (pg/ml) vs smoking history), combined plot (box+strip) for pre-treatment BNP (pg/ml) vs smoking history, line plot (NT-proBNP conc vs time in weeks), heatmap(intervention group, weight and wk 8 NT-pro BNP conc.), to understand relationship and distribution among various variables.
